@@ -18,6 +18,6 @@ index.html: The HTML file that sets up the structure and styling of the game.
 tic-tac-toe.js: The JavaScript file that handles the game logic, including board creation, player moves, win/draw checking, and board reset.
 Usage
 Download or clone the repository.
-Open the tic-tac-toe.html file in a web browser to start playing the Tic-Tac-Toe game.
+Open the index.html file in a web browser to start playing the Tic-Tac-Toe game.
 Customization
 You can customize the appearance of the game by modifying the CSS styles in the index.html file. For example, you can change the background color, font styles, or the size of the game board.
